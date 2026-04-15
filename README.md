@@ -28,17 +28,6 @@ A chess AI engine implemented in Python using the **Minimax algorithm with Alpha
 * Move Ordering Optimization
 * Depth-based Search Strategy
 
----
-
-## 🖥️ Demo
-
-> 📌 Add a screenshot of your game here (recommended)
-
-Example:
-
-```
-![Demo](images/demo.png)
-```
 
 ---
 
